@@ -1,0 +1,12 @@
+body { 
+			background-image: url('../images/1.jpg'); 
+			background-position: middle; 
+			background-repeat: no-repeat; 
+		   }
+.forh {
+			color: red;
+	}
+
+#idu {
+			color: orange;
+}
